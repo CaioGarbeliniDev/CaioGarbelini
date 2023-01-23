@@ -1,4 +1,8 @@
-Caio Augusto Antunes Garbelini
+Olá :vulcan_salute:, Eu sou Caio
+
+Cursando Ciência da Computação na Universidade Federal de Viçosa
+
+<h1>Tecnologias e Ferramentas</h1>
 
 <!--
 **CaioTuring/CaioTuring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
