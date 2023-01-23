@@ -5,7 +5,7 @@ Cursando Ciência da Computação na Universidade Federal de Viçosa
 <h1>Tecnologias e Ferramentas</h1>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
 **CaioTuring/CaioTuring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
