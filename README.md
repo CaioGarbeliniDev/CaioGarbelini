@@ -9,7 +9,7 @@ Cursando Ciência da Computação na Universidade Federal de Viçosa
 
 <h1>Contatos</h1>
 
-<a href = "mailto:contato@Caio Garbelini"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@caioaagarbelini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
 **CaioTuring/CaioTuring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
