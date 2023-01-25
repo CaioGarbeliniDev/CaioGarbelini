@@ -1,4 +1,4 @@
-<h1>Olá :vulcan_salute:, Eu sou Caio</h1>
+<h1>Olá :wave: , Eu sou Caio</h1>
 
 Cursando Ciência da Computação na Universidade Federal de Viçosa
 
