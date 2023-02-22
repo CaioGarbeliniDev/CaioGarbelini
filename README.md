@@ -2,7 +2,8 @@
 
 Cursando Ciência da Computação na Universidade Federal de Viçosa
 
-No momento estou estudando Js, Node e React
+<!--No momento estou estudando Js, Node e React-->
+Aprendendo sobre a Pixel Game Engine fazendo jogos simples em C++
 
 <h1>Tecnologias e Ferramentas</h1>
 
