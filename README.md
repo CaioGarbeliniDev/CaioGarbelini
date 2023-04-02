@@ -2,7 +2,7 @@
 
 Cursando Ciência da Computação na Universidade Federal de Viçosa
 
-Estágiario de Desenvolvimento na Rubeus
+Estágiario de Desenvolvimento na <a href= "https://rubeus.com.br/">Rubeus</a>
 
 <!--No momento estou estudando Js, Node e React-->
 <!--Aprendendo sobre a Pixel Game Engine fazendo jogos simples em C++-->
