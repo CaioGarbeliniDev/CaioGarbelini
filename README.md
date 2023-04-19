@@ -1,6 +1,6 @@
 <h1>:coffee: Olá :wave: , Eu sou Caio :coffee:</h1>
 
-Cursando Ciência da Computação na Universidade Federal de Viçosa
+<h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
 Estágiario de Desenvolvimento na <a href= "https://rubeus.com.br/">Rubeus</a>
 
