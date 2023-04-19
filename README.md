@@ -1,8 +1,8 @@
 <h1>:coffee: Olá :wave: , Eu sou Caio :coffee:</h1>
 
-Cursando Ciência da Computação na Universidade Federal de Viçosa
-
 <h3>Estágiario de Desenvolvimento na <a href= "https://rubeus.com.br/">Rubeus</a></h3>
+
+<h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
 <!--No momento estou estudando Js, Node e React-->
 <!--Aprendendo sobre a Pixel Game Engine fazendo jogos simples em C++-->
