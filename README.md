@@ -14,6 +14,8 @@
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> -->
 
+<h1>GitHub Stats</h1>
+
 <div>
 
 <a href="https://github.com/CaioTuring">
