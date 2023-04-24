@@ -29,7 +29,7 @@
 <h1>Contatos</h1>
 
 <a href = "mailto:caioaagarbelini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/caioaagarbelini)](www.linkedin.com/in/caioaagarbelini)
+<a href = www.linkedin.com/in/caioaagarbelini><img src="https://img.shields.io/badge/-caioaagarbelini-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
  
  
 <!--
