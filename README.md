@@ -21,10 +21,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTuring&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
-  
-<div>  
-  ![code-works-code-not-working](https://user-images.githubusercontent.com/95253787/233894468-fce82449-41bc-40fc-a146-7712cd96d6d6.gif)
-</div>
+ 
+![code-works-code-not-working](https://user-images.githubusercontent.com/95253787/233894468-fce82449-41bc-40fc-a146-7712cd96d6d6.gif)
   
 <h1>Contatos</h1>
 
