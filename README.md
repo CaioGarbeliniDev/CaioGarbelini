@@ -24,6 +24,9 @@
 
 </div>
   
+![code-works-code-not-working](https://user-images.githubusercontent.com/95253787/233894468-fce82449-41bc-40fc-a146-7712cd96d6d6.gif)
+
+  
 <h1>Contatos</h1>
 
 <a href = "mailto:caioaagarbelini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
