@@ -4,7 +4,8 @@
 
 <h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
-<h4>Estudando Javascript, Typescript e Angular</h4>
+<h4>Estudando Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+>, Typescript e Angular</h4>
 
 <!--No momento estou estudando Js, Node e React-->
 <!--Aprendendo sobre a Pixel Game Engine fazendo jogos simples em C++-->
