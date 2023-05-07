@@ -4,7 +4,9 @@
 
 <h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
-<h4>Estudando Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>, Typescript e Angular</h4>
+<h4>Estudando</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
 <!--No momento estou estudando Js, Node e React-->
 <!--Aprendendo sobre a Pixel Game Engine fazendo jogos simples em C++-->
