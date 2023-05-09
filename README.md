@@ -28,9 +28,7 @@
 
 </div>
  
- <div justify-content="center">
 ![code-works-code-not-working](https://user-images.githubusercontent.com/95253787/233894468-fce82449-41bc-40fc-a146-7712cd96d6d6.gif)
- </div>
   
 <h1>Contatos</h1>
 
