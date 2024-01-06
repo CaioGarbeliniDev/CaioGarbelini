@@ -4,7 +4,7 @@
 
 <h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
-<h3>:computer: Estudando :computer:</h3>
+<!--<h3>:computer: Estudando :computer:</h3>-->
 
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>--> <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>--> <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>-->
 
