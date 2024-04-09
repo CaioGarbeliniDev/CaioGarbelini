@@ -1,6 +1,6 @@
 <h1>:coffee: Olá :wave: , Eu sou Caio :coffee:</h1>
 
-<h3>Estágiario de Desenvolvimento na <a href= "https://rubeus.com.br/">Rubeus</a></h3>
+<h3>Desenvolvedor na <a href= "https://rubeus.com.br/">Rubeus</a></h3>
 
 <h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
 
