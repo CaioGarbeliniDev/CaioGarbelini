@@ -2,7 +2,7 @@
 
 <h3>Desenvolvedor na <a href= "https://rubeus.com.br/">Rubeus</a></h3>
 
-<h3>Cursando Ciência da Computação na Universidade Federal de Viçosa</h3>
+<h3>Cursando Análise e Desenvolvimento de Sistemas</h3>
 
 <!--<h3>:computer: Estudando :computer:</h3>-->
 
